@@ -33,3 +33,4 @@
 ###
 ###
 
+![snake gif](https://github.com/Mariana-Alvim/Mariana-Alvim/blob/output/github-contribution-grid-snake.svg)
